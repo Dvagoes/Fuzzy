@@ -241,3 +241,4 @@ if __name__ == '__main__':
         destroy()
         print("destroyed!")
 
+# if I've figured out your code, this should just run fine? But I have probably missed something somewhere (my code is a bit messier)
